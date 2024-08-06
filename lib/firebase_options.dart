@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDk9u9ycuJUeT1HSWJ9tW-eMAPRg__k2_c',
+    apiKey: '',
     appId: '1:881867118086:web:66b5e59e159b7d2e125587',
     messagingSenderId: '881867118086',
     projectId: 'insta-clone-77fcc',
